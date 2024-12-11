@@ -1,0 +1,16 @@
+species_code,scientific_name,common_name,terms_key,notes_key
+ANPA,Antrozous pallidus,Pallid bat,A = adult,"Sabino Upper Dam Nets: A, B, C A= Closest to the dam C= furthest from the dam"
+MYVE,Myotis velifer,Cave Myotis,J = juvenile,only kept parasite and site information for this project
+PAHE,Parastrellus hesperus,Canyon bat,F = female,
+EPFU,Eptesicus fuscus,Big Brown Bat,M = male,
+TABR,Tadarida brasiliensis,Brazilian Free-tailed Bat,NR = non-reproductive,
+LEYE,Leptonycteris yerbabuenae,Lesser long-nosed bat,P = pregnant,
+MYYU,Myotis yumanensis,Yuma myotis,L = lactating,
+MYCA,Myotis californicus,California myotis,P/L = pregnant/lactating,
+CHME,Choeronycteris mexicana,Mexican long-tongued bat,S = scrotal,
+COTO,Corynorhinus townsendii,Townsend's big-eared bat,sample_ID = unique identifier for wing punch samples to sequence individuals of a species of interest,
+LAXA,Lasiurus xanthinus,Western yellow bat,g = grams,
+LABL,Lasiurus blossevillii,Western red bat,mm = millimeters,
+LACI,Lasiurus cinereus,Hoary bat,tragus = inner ear cartlidge prominence,
+NYFE,Nyctinomops femorosaccus,Pocketed Free-tailed Bat,time = military time,
+,,,NA = non-applicable,
