@@ -2,18 +2,44 @@
 
 ## Bat Species Diversity Analysis
 
-#### Revealing trends of bat species diversity and numbers in select roosting areas of Tucson, AZ.
+#### An R script for multiple analyses that can be used to reveal trends of species diversity and numbers in select sampling sites.
+
+### Requirements
+-Updated version of R
+
+-Github account to fork and clone the repo
+
+### Installation
+You will need to have the following packages installed:
+
+library(readr)
+
+library(ggplot2)
+
+library(tidyverse)
+
+library(dplyr)
+
+library(leaflet)
+
+library(vegan)
+
+### Script
+Script: https://github.com/GenaSandoval/Sandoval_ECOL596W_final.git/Sandoval_final_script.R
 
 ### Data set
 Data: https://github.com/GenaSandoval/Sandoval_ECOL596W_final.git/datasets/raw_bat_collection_data_2024.csv
 
-Note: 
+Note the following files will be found in the same directory:
 
 terms_key.csv is a simple text file explaining the abbreviated terms found in the metadata file.
 
 site_info.csv gives details on the type of habitat each site is and their disturbance level based on human activity and natural event occurrences.
 
-### Main Question
+### Outputs
+Figures: https://github.com/GenaSandoval/Sandoval_ECOL596W_final.git/figures
+
+### Main Research Question
 How do environmental variables (e.g., habitat type, disturbance levels) influence bat species diversity and abundance across different roosting sites in Tucson, AZ?
 
 ### Experimental design
